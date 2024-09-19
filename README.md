@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @janaj0hn
+👋 Hello there! I'm a passionate flutter developer
+👀
