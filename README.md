@@ -1,2 +1,2 @@
-👋 Hello there! I'm a passionate flutter developer
+👋 Hello there! I'm a passionate developer
 👀
